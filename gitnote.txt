@@ -5,4 +5,4 @@
 	$git reset --hard ID  //切换版本
 	$git log //获得版本日志
 	$git reflog //获取版本信息，简写版
-
+	$git status //查看提交状态，是否有待提交的文件
